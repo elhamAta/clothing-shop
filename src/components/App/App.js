@@ -14,7 +14,7 @@ import DetailNews from '../DetailNews/DetailNews';
 function App()  {
     return(
         <div className="App">
-            <BrowserRouter>
+            <BrowserRouter basename="/clothing-shop">
                 <Layout>
                     <Switch>
                         <Route exact path="/">
