@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/clothing-shop/static/css/main.e0bdd982.chunk.css",
-    "main.js": "/clothing-shop/static/js/main.026eebe9.chunk.js",
-    "main.js.map": "/clothing-shop/static/js/main.026eebe9.chunk.js.map",
+    "main.js": "/clothing-shop/static/js/main.04f06478.chunk.js",
+    "main.js.map": "/clothing-shop/static/js/main.04f06478.chunk.js.map",
     "runtime-main.js": "/clothing-shop/static/js/runtime-main.16f2dcf1.js",
     "runtime-main.js.map": "/clothing-shop/static/js/runtime-main.16f2dcf1.js.map",
     "static/css/2.e879b718.chunk.css": "/clothing-shop/static/css/2.e879b718.chunk.css",
     "static/js/2.06217d4a.chunk.js": "/clothing-shop/static/js/2.06217d4a.chunk.js",
     "static/js/2.06217d4a.chunk.js.map": "/clothing-shop/static/js/2.06217d4a.chunk.js.map",
     "index.html": "/clothing-shop/index.html",
-    "precache-manifest.0ad2808f52d249c40a82f54468a4b7fe.js": "/clothing-shop/precache-manifest.0ad2808f52d249c40a82f54468a4b7fe.js",
+    "precache-manifest.6c61aaba58dcd8bb9276c3376b4f71ee.js": "/clothing-shop/precache-manifest.6c61aaba58dcd8bb9276c3376b4f71ee.js",
     "service-worker.js": "/clothing-shop/service-worker.js",
     "static/css/2.e879b718.chunk.css.map": "/clothing-shop/static/css/2.e879b718.chunk.css.map",
     "static/css/main.e0bdd982.chunk.css.map": "/clothing-shop/static/css/main.e0bdd982.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.e879b718.chunk.css",
     "static/js/2.06217d4a.chunk.js",
     "static/css/main.e0bdd982.chunk.css",
-    "static/js/main.026eebe9.chunk.js"
+    "static/js/main.04f06478.chunk.js"
   ]
 }
