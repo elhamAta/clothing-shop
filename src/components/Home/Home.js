@@ -18,7 +18,7 @@ const Home = () => (
             </div>
         </div>
         <span className="back_layer" style={{
-            background:"url(/images/bg1.jpg)no-repeat center center"
+            background:"url(images/bg1.jpg)no-repeat center center"
         }}></span>
         <div className="part3">
             <div className="main">

@@ -1,4 +1,4 @@
-const PROJECT_URL = '/images/';
+const PROJECT_URL = 'images/';
 
 export{
     PROJECT_URL
